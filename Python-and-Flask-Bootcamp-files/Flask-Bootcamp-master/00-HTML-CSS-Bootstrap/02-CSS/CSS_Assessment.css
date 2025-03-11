@@ -5,11 +5,16 @@ Watch the video lecture for more info on this! */
 
 /*Task # 1
 Give the body element of the site a light gray background using HEX code*/
+body{
+    background-color: #D3D3D3;
+}
 
 /*Task # 2
 Change the h1 to have a 4px solid black border*/
 /* And center the text. */
-
+h1{
+    
+}
 
 
 /*Task # 3
